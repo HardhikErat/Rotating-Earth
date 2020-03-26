@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  background(51);
+  background(0);
   rotateY(angle);
   angle += 0.05;
 
